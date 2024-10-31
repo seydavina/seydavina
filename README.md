@@ -33,6 +33,18 @@ Hi there 👋!
   - **CI/CD:** `Github Actions`
   - **Project Management:** `Trello` • `GitHub Projects` • `Jira`
 
+<br/>
+<br/>
+<br/>
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seydavina&theme=algolia)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=seydavina&theme=algolia) ![Productive](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seydavina&theme=algolia&utcOffset=8) 
+<p align="center">
+  <a href="http://www.github.com/seydavina">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seydavina&theme=algolia" alt="seydavina's GitHub Profile details" />
+  </a>  
+  <a href="http://www.github.com/seydavina">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=seydavina&theme=algolia" />
+  </a>  
+  <a href="http://www.github.com/seydavina">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seydavina&theme=algolia&utcOffset=8" />
+  </a>
+</p>
