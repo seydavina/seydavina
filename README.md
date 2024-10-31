@@ -33,6 +33,15 @@ Hi there 👋!
   - **CI/CD:** `Github Actions`
   - **Project Management:** `Trello` • `GitHub Projects` • `Jira`
 
+#### How to reach me?
+
+<a href="https://www.linkedin.com/in/limamou-laye">
+  <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
+</a>
+<a href="mailto:limamoudotcom@gmail.com">
+  <img align="left" alt="Mail" width="22px" src="./assets/gmail.svg" />
+</a>
+
 <br/>
 <br/>
 <br/>
