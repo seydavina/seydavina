@@ -14,17 +14,17 @@ Hi there 👋!
 
 - 🗄️ **Backend:**
 
-  - **Programming:** `PHP` • `Node.js` • `JavaScript` • `TypeScript`
+  - **Programming:** `PHP` • `Node.js` • `JavaScript`
   - **Framework:** `Laravel` • `Express.js`
   - **Databases:** `MySQL` • `PostgreSQL` • `MongoDB`
-  - **System Architecture:** `Microservices`
+  - **System Architecture:** `Microservices` • `Client-Serveur`
   - **Protocol:** `REST`
 
 - 🖥 **Frontend (_I do frontend for fun_):**
 
   - **Programming:** `JavaScript` • `TypeScript`
   - **Framework/Library:** `React.js` • `Angular`
-  - **UI Toolkit:** `Ant Design` • `MUI`
+  - **UI Toolkit:** `shadcn/ui` • `Chakra UI`
   - **Utils:** `Tailwind` • `Bootstrap`
 
 - 🎡 **Ecosystem:**
