@@ -49,14 +49,14 @@ Hi there 👋!
 <br/>
 <br/>
 
-<p align="center">
-  <a href="http://www.github.com/seydavina">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seydavina&theme=algolia" alt="seydavina's GitHub Profile details" />
-  </a>  
+<p align="center"> 
   <a href="http://www.github.com/seydavina">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=seydavina&theme=algolia" />
   </a>  
   <a href="http://www.github.com/seydavina">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seydavina&theme=algolia&utcOffset=8" />
   </a>
+  <a href="http://www.github.com/seydavina">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seydavina&theme=algolia" alt="seydavina's GitHub Profile details" />
+  </a> 
 </p>
