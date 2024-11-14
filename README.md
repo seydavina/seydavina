@@ -3,11 +3,13 @@ Hi there 👋!
 #### Who I am?
 
 - A Software Engineer based in **[Dakar](https://fr.wikipedia.org/wiki/Dakar), [Sénégal](https://fr.wikipedia.org/wiki/S%C3%A9n%C3%A9gal)** with 2 years of experience.
+- Passionate about creating impactful solutions through code and open to learning new technologies.
 
 #### What I'm doing?
 
-- Writing `PHP`, `Laravel`, `Node.js`, `JavaScript`, `TypeScript`, `MySQL`.
-- Contributing to Open Source.
+- Writing `PHP`, `Laravel`, `Node.js`, `JavaScript`, `MySQL`.
+- Currently working on projects involving API development, Microservices, and User Management Systems.
+- Contributing to Open Source projects in my free time.
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/limamou-laye)**.
 
 #### What are my skill sets?
@@ -17,21 +19,22 @@ Hi there 👋!
   - **Programming:** `PHP` • `Node.js` • `JavaScript`
   - **Framework:** `Laravel` • `Express.js`
   - **Databases:** `MySQL` • `PostgreSQL` • `MongoDB`
-  - **System Architecture:** `Microservices` • `Client-Serveur`
-  - **Protocol:** `REST`
+  - **System Architecture:** `Microservices` • `Client-Server`
+  - **Protocol:** `REST`• `GraphQL`
 
 - 🖥 **Frontend (_I do frontend for fun_):**
 
   - **Programming:** `JavaScript` • `TypeScript`
-  - **Framework/Library:** `React.js` • `Angular`
+  - **Framework/Library:** `Vue.js` • `React.js` • `Angular`
   - **UI Toolkit:** `shadcn/ui` • `Chakra UI`
   - **Utils:** `Tailwind` • `Bootstrap`
 
 - 🎡 **Ecosystem:**
   - **Containerization:** `Docker` • `GitHub Codespaces`
   - **Version Control:** `Git` • `GitHub`
-  - **CI/CD:** `Github Actions`
+  - **CI/CD:** `Github Actions` • `GitLab`
   - **Project Management:** `Trello` • `GitHub Projects` • `Jira`
+  - **Testing & Quality Assurance:** `Postman` • `¨PHPUnit` • `Jest`
 
 #### How to reach me?
 
