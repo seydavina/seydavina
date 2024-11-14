@@ -34,7 +34,7 @@ Hi there 👋!
   - **Version Control:** `Git` • `GitHub`
   - **CI/CD:** `Github Actions` • `GitLab`
   - **Project Management:** `Trello` • `GitHub Projects` • `Jira`
-  - **Testing & Quality Assurance:** `Postman` • `¨PHPUnit` • `Jest`
+  - **Testing & Quality Assurance:** `Postman` • `PHPUnit` • `Jest`
 
 #### How to reach me?
 
