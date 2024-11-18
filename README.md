@@ -1,4 +1,6 @@
-Hi there 👋!
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/seydavina/seydavina/main/name.svg" alt="Virtual Voyager" />
+</h1>
 
 #### Who I am?
 
