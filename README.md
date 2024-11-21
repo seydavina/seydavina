@@ -4,7 +4,7 @@
 
 #### Who I am?
 
-- **Limamou Laye**, a Software Engineer based in **[Dakar](https://fr.wikipedia.org/wiki/Dakar), [Sénégal](https://fr.wikipedia.org/wiki/S%C3%A9n%C3%A9gal)** with 2 years of experience.
+- **Limamou Laye**, a Full Stack Developer based in **[Dakar](https://fr.wikipedia.org/wiki/Dakar), [Sénégal](https://fr.wikipedia.org/wiki/S%C3%A9n%C3%A9gal)**
 - Passionate about creating impactful solutions through code and open to learning new technologies.
 
 #### What I'm doing?
