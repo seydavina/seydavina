@@ -18,8 +18,8 @@
 
 - 🗄️ **Backend:**
 
-  - **Programming:** `PHP` • `Node.js` • `JavaScript`
-  - **Framework:** `Laravel` • `Express.js`
+  - **Programming:** `PHP` • `Node.js` • `Python` • `JavaScript`
+  - **Framework:** `Laravel` • `Django` • `Express.js`
   - **Databases:** `MySQL` • `PostgreSQL` • `MongoDB`
   - **System Architecture:** `Microservices` • `Client-Server`
   - **Protocol:** `REST`• `GraphQL`
