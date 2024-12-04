@@ -9,7 +9,7 @@
 
 #### What I'm doing?
 
-- Writing `PHP`, `Laravel`, `Node.js`, `JavaScript`, `MySQL`.
+- Writing `PHP`, `Laravel`, `Node.js`, `Python`, `JavaScript`, `MySQL`.
 - Currently working on projects involving API development, Microservices, and User Management Systems.
 - Contributing to Open Source projects in my free time.
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/limamou-laye)**.
