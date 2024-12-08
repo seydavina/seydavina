@@ -13,6 +13,7 @@
 - Currently working on projects involving API development, Microservices, and User Management Systems.
 - Contributing to Open Source projects in my free time.
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/limamou-laye)**.
+- Want to read my blogs on **[Medium](https://medium.com/@seydinalimamoulayeyade)**.
 
 #### What are my skill sets?
 
