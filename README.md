@@ -63,6 +63,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seydavina&theme=algolia" alt="seydavina's GitHub Profile details" />
   </a>
   <a href="http://www.github.com/seydavina">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=seydavina&bg_color=090e58&color=ffffff&line=ffffff&point=f813fb&area=true&hide_border=true" alt="seydavina's GitHub Profile details" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=seydavina&bg_color=172030&color=4de1ff&line=ffffff&point=4de1ff&area=true&hide_border=true" alt="seydavina's GitHub Profile details" />
   </a> 
 </p>
