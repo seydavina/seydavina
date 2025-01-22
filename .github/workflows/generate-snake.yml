@@ -22,7 +22,7 @@ jobs:
         with:
           python-version: 3.x
 
-      - name: Validate GitHub User Name
+      - name: seydavina
         run: |
           if [ -z "${{ github.repository_owner }}" ]; then
             echo "Error: GitHub user name is not set."
