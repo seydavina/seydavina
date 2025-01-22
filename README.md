@@ -62,4 +62,7 @@
   <a href="http://www.github.com/seydavina">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=seydavina&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=All%20Contributions" alt="Seydavina's GitHub Contributions" />
   </a> 
+
+  ![GitHub Contribution Snake](https://github.com/seydavina/seydavina>/blob/output/github-contribution-grid-snake.svg)
+
 </p>
