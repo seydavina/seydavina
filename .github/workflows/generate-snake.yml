@@ -14,7 +14,7 @@ on:
 jobs:
   generate:
     name: Generate Snake
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
 
     steps:
       # Étape 1 : Vérifier le dépôt
