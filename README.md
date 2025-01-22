@@ -60,9 +60,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seydavina&theme=algolia&utcOffset=8" />
   </a>
   <a href="http://www.github.com/seydavina">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seydavina&theme=algolia" alt="seydavina's GitHub Profile details" />
-  </a>
-  <a href="http://www.github.com/seydavina">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=seydavina&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=All%20Contributions" alt="Seydavina's GitHub Contributions" />
   </a> 
 </p>
