@@ -1,12 +1,9 @@
 name: Generate Snake Animation
 
 on:
-  # Planification quotidienne
   schedule:
-    - cron: "0 0 * * *" # À minuit tous les jours
-  # Exécution manuelle
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  # Déclenchement sur push vers la branche principale
   push:
     branches:
       - main
@@ -17,25 +14,27 @@ jobs:
     runs-on: ubuntu-24.04
 
     steps:
-      # Étape 1 : Vérifier le dépôt
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Étape 2 : Configurer Python
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: 3.x
 
-      # Étape 3 : Générer le graphique
+      - name: Validate GitHub User Name
+        run: |
+          if [ -z "${{ github.repository_owner }}" ]; then
+            echo "Error: GitHub user name is not set."
+            exit 1
+          fi
+
       - name: Generate Snake
         uses: Platane/snk@v2
         with:
-          # Générez un SVG avec vos contributions
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-contribution-grid-snake.svg
 
-      # Étape 4 : Publier le fichier sur la branche "output"
       - name: Push generated snake
         uses: crazy-max/ghaction-github-pages@v3
         with:
