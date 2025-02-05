@@ -22,7 +22,7 @@
   - **Programming:** `PHP` • `Node.js` • `Python` • `JavaScript`
   - **Framework:** `Laravel` • `Django` • `Express.js`
   - **Databases:** `MySQL` • `PostgreSQL` • `MongoDB`
-  - **System Architecture:** `Microservices` • `Client-Server`
+  - **System Architecture:** `Microservices` • `Client-Server` • `Serverless`
   - **Protocol:** `REST`• `GraphQL`
 
 - 🖥 **Frontend (_I do frontend for fun_):**
