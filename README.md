@@ -1,65 +1,75 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/seydavina/seydavina/main/assets/name.svg" alt="Virtual Voyager" />
+  <img src="https://raw.githubusercontent.com/seydavina/seydavina/main/assets/name.svg" alt="Limamou Laye" />
 </h1>
 
-#### Who I am?
+<p align="center">
+  <img src="https://img.shields.io/badge/Software_Engineer-Junior-blue?style=for-the-badge" alt="Software Engineer Badge"/>
+  <img src="https://img.shields.io/badge/FullStack-Developer-green?style=for-the-badge" alt="FullStack Developer Badge"/>
+  <img src="https://img.shields.io/badge/Based_in-Dakar-orange?style=for-the-badge" alt="Based in Dakar"/>
+</p>
 
-- **Limamou Laye**, a Junior Software Engineer and Full Stack Developer based in **[Dakar](https://fr.wikipedia.org/wiki/Dakar), [Sénégal](https://fr.wikipedia.org/wiki/S%C3%A9n%C3%A9gal)**
-- Passionate about creating impactful solutions through code and open to learning new technologies.
+---
 
-#### What I'm doing?
+#### 👋 Bonjour, je suis Limamou Laye aka Lims
 
-- Writing `PHP`, `Laravel`, `Node.js`, `Python`, `JavaScript`, `MySQL`.
-- Currently working on projects involving API development, Microservices, and User Management Systems.
-- Contributing to Open Source projects in my free time.
-- Mostly active on **[LinkedIn](https://www.linkedin.com/in/limamou-laye)**.
-- Want to read my blogs on **[Medium](https://medium.com/@seydinalimamoulayeyade)**.
+Jeune ingénieur logiciel et développeur Full Stack basé à [Dakar](https://fr.wikipedia.org/wiki/Dakar), Sénégal. Passionné par la création de solutions innovantes, je travaille sur des projets en `PHP`, `Laravel`, `Node.js` et d'autres technologies pour concevoir des applications performantes.
 
-#### What are my skill sets?
+---
 
-- 🗄️ **Backend:**
+#### 🔥 Ce que je fais
 
-  - **Programming:** `PHP` • `Node.js` • `Python` • `JavaScript`
-  - **Framework:** `Laravel` • `Django` • `Express.js`
-  - **Databases:** `MySQL` • `PostgreSQL` • `MongoDB`
-  - **System Architecture:** `Microservices` • `Client-Server` • `Serverless`
-  - **Protocol:** `REST`• `GraphQL`
+- Développement d'applications web et d'API robustes.
+- Conception d'architectures microservices et serverless.
+- Contribution à des projets open source.
+- Partage de connaissances à travers mon blog et mes contributions sur GitHub.
 
-- 🖥 **Frontend (_I do frontend for fun_):**
+---
 
-  - **Programming:** `JavaScript` • `TypeScript`
-  - **Framework/Library:** `Vue.js` • `React.js` • `Angular`
-  - **UI Toolkit:** `shadcn/ui` • `Chakra UI`
-  - **Utils:** `Tailwind` • `Bootstrap`
+#### 🚀 Mes Compétences
 
-- 🎡 **Ecosystem:**
-  - **Containerization:** `Docker` • `GitHub Codespaces`
-  - **Version Control:** `Git` • `GitHub`
-  - **CI/CD:** `Github Actions` • `GitLab`
-  - **Project Management:** `Trello` • `GitHub Projects` • `Jira`
-  - **Testing & Quality Assurance:** `Postman` • `PHPUnit` • `Jest`
+**Backend:**  
+- **Langages :** `PHP`, `Node.js`, `Python`, `JavaScript`  
+- **Frameworks :** `Laravel`, `Django`, `Express.js`  
+- **Bases de données :** `MySQL`, `PostgreSQL`, `MongoDB`  
+- **Architectures :** `Microservices`, `Client-Server`, `Serverless`  
+- **Protocoles :** `REST`, `GraphQL`
 
-#### How to reach me?
+**Frontend:** *(pour le plaisir)*  
+- **Langages :** `JavaScript`, `TypeScript`  
+- **Frameworks / Bibliothèques :** `Vue.js`, `React.js`, `Angular`  
+- **UI Toolkits :** `shadcn/ui`, `Chakra UI`  
+- **Outils :** `Tailwind CSS`, `Bootstrap`
+
+**Écosystème & Outils :**  
+- **Containerisation :** `Docker`, `GitHub Codespaces`  
+- **Contrôle de version :** `Git`  
+- **CI/CD :** `GitHub Actions`, `GitLab CI`  
+- **Gestion de projet :** `Trello`, `GitHub Projects`, `Jira`  
+- **Tests & Qualité :** `Postman`, `PHPUnit`, `Jest`
+
+---
+
+#### 📫 Me contacter
 
 <a href="https://www.linkedin.com/in/limamou-laye">
-  <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="28px" src="./assets/linkedin.svg" />
 </a>
 <a href="mailto:limamoudotcom@gmail.com">
-  <img align="left" alt="Mail" width="22px" src="./assets/gmail.svg" />
+  <img align="left" alt="Email" width="28px" src="./assets/gmail.svg" />
 </a>
 
-<br/>
-<br/>
-<br/>
+<br/><br/><br/>
+
+---
 
 <p align="center"> 
   <a href="http://www.github.com/seydavina">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=seydavina&theme=algolia" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=seydavina&theme=algolia" alt="GitHub Stats" />
   </a>  
   <a href="http://www.github.com/seydavina">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seydavina&theme=algolia&utcOffset=8" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seydavina&theme=algolia&utcOffset=8" alt="Productive Time" />
   </a>
   <a href="http://www.github.com/seydavina">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=seydavina&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=All%20Contributions" alt="Seydavina's GitHub Contributions" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=seydavina&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Contributions" alt="Contributions Graph" />
   </a> 
 </p>
