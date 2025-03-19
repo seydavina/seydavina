@@ -12,7 +12,7 @@
 
 #### 👋 Bonjour, je suis Limamou Laye aka Lims
 
-Jeune ingénieur logiciel et développeur Full Stack basé à [Dakar](https://fr.wikipedia.org/wiki/Dakar), Sénégal. Passionné par la création de solutions innovantes, je travaille sur des projets en `PHP`, `Laravel`, `Node.js` et d'autres technologies pour concevoir des applications performantes.
+Jeune ingénieur logiciel et développeur Full Stack basé à [Dakar](https://fr.wikipedia.org/wiki/Dakar), Sénégal. Spécialisé en développement web, à la conception d’architectures SaaS et passionné par la création de solutions innovantes, je travaille sur des projets en `PHP`, `Laravel`, `Node.js` et d'autres technologies pour concevoir des applications performantes.
 
 ---
 
