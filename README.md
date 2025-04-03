@@ -64,11 +64,14 @@ Jeune ingénieur logiciel et développeur Full Stack basé à [Dakar](https://fr
 
 <p align="center"> 
   <a href="http://www.github.com/seydavina">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=seydavina&theme=algolia" alt="GitHub Stats" />
-  </a>  
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seydavina&theme=algolia" />
+  </a> 
   <a href="http://www.github.com/seydavina">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seydavina&theme=algolia&utcOffset=8" alt="Productive Time" />
-  </a>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seydavina&theme=algolia" />
+  </a> 
+  <a href="http://www.github.com/seydavina">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seydavina&theme=algolia" />
+  </a>  
   <a href="http://www.github.com/seydavina">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=seydavina&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Contributions" alt="Contributions Graph" />
   </a> 
